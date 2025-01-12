@@ -18,5 +18,5 @@ A simple and interactive bookstore website built using **HTML**, **CSS**, **Java
 - **Fetch API**: To retrieve book data from a third-party book API 
 ## Live Demo
 
-Check out the live version of the project here: [Live Bookstore Demo](https://book-house-aniket.netlify.app/)
+Check out the live version of the project here: [Live Bookstore Demo](https://bookstore-namira.vercel.app/)
 
